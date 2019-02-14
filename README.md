@@ -20,3 +20,9 @@ The whole robot is designed by me in solidworks, however I'm unable to obtain th
 ![Final foot design](graphics/final_feet_design.jpg)
 ![Final render](graphics/final_render.jpg)
 ![Assembled robot](graphics/completed_robot.jpg)
+
+## Conclusions
+About the robot:
+It has problems with stiffness, as the material bends under load. It was largely made with form over function, as the feet were ment to be reminiscent of the AT-ST from the Star Wars trilogy. This was a mistake, as the feet would be more stable with a different design. The linkage, and the placement of the servos suit the task well, as it results in a large freedom of movement. The controllers could be better programmed, with inspiration from [Underactuated Robotics](http://underactuated.csail.mit.edu/Spring2019/index.html#information). 
+
+Personally, I learned a lot about the design process from this project, and it was probably the most fun challenge I've ever encountered in an academic setting. 
