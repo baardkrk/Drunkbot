@@ -6,7 +6,7 @@ A bipedal walker I made for the INF4500 - Rapid prototyping course at the Univer
 This robot features silicon feet with grip-pattern which were injection molded directly onto the feet, movable 'toes' for dramatic effect, and no complete kinematic model for the robot. The servos being used are the Dynamixel AX-18A, driven over a serial USB connection. 
 The robot parts are fully 3D printed where the white were printed in ABS for extra rigidity, and the others were printed in normal PLA. 
 
-The whole robot is designed by me in solidworks, however I'm unable to obtain the sldprt files at this time, as they are connected to my user account at the university. The idea was to move its center of mass directly over the foot in contact with the ground while lifting the other. This was accomplished by trial and error, as evident by the code.
+The whole robot is designed by me in solidworks. All files can be found in the zip archive at the github repo, but the archive is quite messy, and contains the SLDPRT files of earlier versions of the parts and such. I *think* the STL files under 'Project 1/solved/printables' should be the finished versions of each part. The idea was to move its center of mass directly over the foot in contact with the ground while lifting the other. This was accomplished by trial and error, as evident by the code.
 
 **A video of the final result:**
 
